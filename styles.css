@@ -1,0 +1,35 @@
+
+  body {
+      padding-left: 250px;
+  }
+
+ .sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(85, 83, 83);
+    overflow-x: hidden;
+    padding-top: 16px;
+ } 
+ .sidebar a {
+    padding: 6px 8px 20px 50px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+
+  }
+
+  .sidebar a:hover {
+      color: white;
+  }
+
+  .content {
+      display:  flex;
+      justify-content: center;
+  }
+
+ 
