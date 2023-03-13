@@ -9,6 +9,7 @@ function submitForm() {
   console.log("Message: " + email.value);
 }
 
+
 const contactPage = document.querySelector(".contact");
 contactPage.style.marginRight = "auto";
 contactPage.style.marginLeft = "auto";
