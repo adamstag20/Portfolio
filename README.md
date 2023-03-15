@@ -6,7 +6,7 @@ To run the code please download the Portfolio folder.
 Open the folder in a code editor of your choice.
 Open the index.html file and click run.
 
-Alternatively you can view the portfolio at ->
+Alternatively you can view the portfolio at -> https://adamstag20.github.io/Portfolio/index.html
 
 I used W3Schools.com to help me do most of the CSS styling.
 
